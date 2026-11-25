@@ -1,4 +1,4 @@
-# Maven & Java skeleton
+# Maven & Java skeleton-(java,pom,executable jar ,junit)
 
 This repository contains a starting point for Java projects.
 
@@ -30,3 +30,4 @@ Copy the JAR file and the `lib/` directory from the `target` folder.
 ## License
 
 Licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) - do whatever you want with it.
+
